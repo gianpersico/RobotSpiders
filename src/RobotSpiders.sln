@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E67011
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSpiders.Domain", "RobotSpiders.Domain\RobotSpiders.Domain.csproj", "{64672263-F317-41DE-9A0E-3156A96E22CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSpiders.Console", "RobotSpiders.Console\RobotSpiders.Console.csproj", "{8082D30B-C3AC-494F-B2A7-90846777EFFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{64672263-F317-41DE-9A0E-3156A96E22CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64672263-F317-41DE-9A0E-3156A96E22CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64672263-F317-41DE-9A0E-3156A96E22CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8082D30B-C3AC-494F-B2A7-90846777EFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8082D30B-C3AC-494F-B2A7-90846777EFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8082D30B-C3AC-494F-B2A7-90846777EFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8082D30B-C3AC-494F-B2A7-90846777EFFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
